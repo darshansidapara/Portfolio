@@ -53,7 +53,7 @@ const typed = new Typed('.multiple-text', {
     strings: ['Frontend Developer', 'Web Designer', 'Youtuber', 'Musician'],
     typeSpeed: 90,
     backSpeed: 40,
-    backDelay: 800,
+    backDelay: 900,
     loop: true,
 });
 
