@@ -92,7 +92,7 @@ body {
 }
 
 #dark-mode-toggle {
-    display: inline-block;
+/*     display: inline-block; */
     transition: color 0.2s ease;
 }
 
